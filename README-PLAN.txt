@@ -11,3 +11,24 @@
     *computed asynchronously from window resizing
 *album art shown in playlist panel
     *cover flow style possible?
+
+
+Systems:
+
+Backend
+Playlist
+    ->Media Library
+
+OS Streams: SDL + Pipewire
+
+Audio Decode: ffmpeg
+
+Interface (QT?):
+
+*Waveform seekbar/volume
+*hiding button frame
+*Playlist Viewer
+    *special viewer for Library
+*artist filter
+
+
