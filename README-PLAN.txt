@@ -1,5 +1,5 @@
 #rust learning project
-#no music player on linux properly replicates my windows foobar2k setup, so im going to make my own while learning rust
+#no music player on linux properly replicates my windows foobar2k setup, so im going to make my own
 
 #goal is to replicate elements of columns ui while keepin things relatively minimal and having a slightly easier to manage library - playlist division than foobar
 
@@ -11,6 +11,12 @@
     *computed asynchronously from window resizing
 *album art shown in playlist panel
     *cover flow style possible?
+
+Libraries:
+https://github.com/mpv-player/mpv/blob/master/DOCS/man/libmpv.rst
+
+just make an mpv player
+
 
 
 Systems:
