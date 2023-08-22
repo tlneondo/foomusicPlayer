@@ -14,6 +14,7 @@
 
 Libraries:
 https://github.com/mpv-player/mpv/blob/master/DOCS/man/libmpv.rst
+https://id3lib.sourceforge.net/
 
 just make an mpv player
 
