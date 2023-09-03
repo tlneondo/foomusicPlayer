@@ -39,3 +39,8 @@ Interface (QT?):
 *artist filter
 
 
+TODO
+
+Create basic SQLITE database
+enter clyde.ogg into the databas
+then pass info to mpv and start playback
