@@ -15,6 +15,8 @@
 Libraries:
 https://github.com/mpv-player/mpv/blob/master/DOCS/man/libmpv.rst
 https://taglib.org/
+https://github.com/taglib/taglib/blob/master/bindings/c/tag_c.h c bindings
+
 just make an mpv player
 
 
